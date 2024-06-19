@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AEeverything</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>AEeverything</h1>
+        <p>Buying and Selling the Latest Hot Products</p>
+    </header>
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#products">Our Products</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Welcome to AEeverything! We are Adam and Erikka, and we specialize in buying and selling the latest hot products. Our goal is to bring you the best and trendiest items on the market. We advertise across all social media platforms to ensure our products reach a wide audience.</p>
+    </section>
+    <section id="products">
+        <h2>Our Products</h2>
+        <p>Here are some of the latest products we have on offer:</p>
+        <ul>
+            <li>Product 1: Description of product 1</li>
+            <li>Product 2: Description of product 2</li>
+            <li>Product 3: Description of product 3</li>
+            <li>More products coming soon...</li>
+        </ul>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Stay tuned for the latest updates and trends in our blog. Coming soon!</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>For inquiries, please reach out to us through the following channels:</p>
+        <ul>
+            <li>Email: <a href="mailto:aeeverything21@gmail.com">aeeverything21@gmail.com</a></li>
+            <li>Facebook: <a href="https://www.facebook.com/profile.php?id=61560851398221" target="_blank">facebook.com/aeeverything</a></li>
+            <li>Twitter: <a href="https://www.twitter.com/aeeverything" target="_blank">@aeeverything</a></li>
+            <li>Instagram: <a href="https://www.instagram.com/aeeverything" target="_blank">@aeeverything</a></li>
+            <li>TikTok: <a href="https://www.tiktok.com/@aeeverything1" target="_blank">@aeeverything1</a></li>
+            <li>eBay: <a href="https://www.ebay.com/usr/ekabeka21" target="_blank">ekabeka21</a></li>
+            <li>Online Store: <a href="https://aeeverything.store/" target="_blank">aeeverything.store</a></li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 AEeverything. All rights reserved.</p>
+    </footer>
+</body>
+</html>
